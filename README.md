@@ -20,7 +20,6 @@ prj053_pg/
 ├── requirements.txt
 └── README.md
 ```
-
 ---
 
 ## 🐘 PostgreSQL Setup
