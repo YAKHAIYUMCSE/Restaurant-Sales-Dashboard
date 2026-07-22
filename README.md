@@ -132,7 +132,6 @@ All 27 tests pass against a freshly seeded database.
 | GET /menu-items | Menu catalogue |
 
 ---
-
 ## 🔑 Environment Variable
 
 | Variable | Default |
