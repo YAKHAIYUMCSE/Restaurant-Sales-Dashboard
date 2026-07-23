@@ -24,7 +24,7 @@ prj053_pg/
 
 ## 🐘 PostgreSQL Setup
 
-### Option A — Local PostgreSQL
+### Option A — Local PostgreSQL:
 
 ```bash
 # 1. Create the database
@@ -34,7 +34,7 @@ psql -U postgres -c "CREATE DATABASE restaurant_db;"
 export DATABASE_URL="postgresql://postgres:postgres@localhost:5432/restaurant_db"
 ```
 
-### Option B — Docker (easiest)
+### Option B — Docker (easiest):
 
 ```bash
 docker run -d \
