@@ -7,7 +7,7 @@
 
 ## 📁 Project Structure
 
-```
+``` 
 prj053_pg/
 ├── backend/
 │   └── main.py          # FastAPI — 18 API endpoints (PostgreSQL)
