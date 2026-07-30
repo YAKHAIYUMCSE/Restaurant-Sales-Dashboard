@@ -3,7 +3,7 @@
 **Student:** Ya Khaiyum.A PDKV | **Reg No:** 411623104047  
 **Stack:** FastAPI · Streamlit · **PostgreSQL** · Pandas · Plotly
  
----
+--- 
 
 ## 📁 Project Structure
 
