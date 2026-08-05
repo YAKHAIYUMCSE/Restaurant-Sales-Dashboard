@@ -21,7 +21,7 @@ prj053_pg/
 └── README.md
 ```
 ---
-
+ 
 ## 🐘 PostgreSQL Setup
 
 ### Option A — Local PostgreSQL:
