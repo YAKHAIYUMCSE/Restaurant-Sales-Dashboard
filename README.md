@@ -24,7 +24,8 @@ prj053_pg/
  
 ## 🐘 PostgreSQL Setup
 
-### Option A — Local PostgreSQL:
+### Option A — Local PostgreSQL:               
+
 
 ```bash
 # 1. Create the database
