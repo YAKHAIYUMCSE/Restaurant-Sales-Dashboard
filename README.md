@@ -83,7 +83,7 @@ uvicorn server is needed — but PostgreSQL must be running and seeded first.
 pytest tests/test_all.py -v
 ```
 
-All 27 tests pass against a freshly seeded database.
+All 27 tests pass against a freshly seeded database.  
 
 ---
 
